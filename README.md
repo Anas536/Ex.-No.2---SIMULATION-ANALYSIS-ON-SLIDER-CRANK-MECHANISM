@@ -42,8 +42,8 @@
 ![MechAnalyzer](MechAnalyzer.png)
 ### VAD, IC and SFA module
 ![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
-### Name: **KABELAN G K**
-### Register Number: **212224110027**
+### Name: **Mohamed Anas O.I**
+### Register Number: **212223110028**
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
